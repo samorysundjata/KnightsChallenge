@@ -1,0 +1,35 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 100 100"
+  width="200"
+  height="200"
+>
+  <!-- Background -->
+  <rect width="100" height="100" fill="#1b1b1b" />
+
+  <!-- Knight helmet -->
+  <circle cx="50" cy="40" r="20" fill="#000" />
+  <rect x="40" y="30" width="20" height="10" fill="#000" />
+
+  <!-- Sword -->
+  <line x1="60" y1="40" x2="80" y2="60" stroke="#ffd700" stroke-width="2" />
+  <polygon
+    points="80,60 85,55 85,65"
+    fill="#ffd700"
+    stroke="#ffd700"
+    stroke-width="1"
+  />
+
+  <!-- Shield -->
+  <rect x="20" y="60" width="60" height="30" fill="#ffd700" />
+  <text
+    x="50"
+    y="80"
+    font-family="Arial, sans-serif"
+    font-size="12"
+    fill="#1b1b1b"
+    text-anchor="middle"
+  >
+    KNIGHTS
+  </text>
+</svg>
