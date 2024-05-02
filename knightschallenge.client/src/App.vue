@@ -9,17 +9,13 @@ import Knights from './components/Knights.vue'
         <img alt="Vue logo" class="logo" src="./assets/knight.svg" width="125" height="125" />
 
         <div class="wrapper">
-            <!--<HelloWorld msg="Você conseguiu" />-->
+            <h1>Knights Challenger</h1>
         </div>
     </header>
 
     <main>
         <Knights />
     </main>
-
-    <!--<main>
-      <TheWelcome />
-    </main>-->
 </template>
 
 <style scoped>
